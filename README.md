@@ -27,9 +27,3 @@
 <p align="center">
   &nbsp;<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" />
 </p>
-
-<h3 align="center">🛠️ Tools & Version Control</h3>
-<p align="center">
-  &nbsp;<img src="https://cdn.simpleicons.org/git/F05032" height="40" />
-  &nbsp;<img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" />
-</p>
